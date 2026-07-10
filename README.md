@@ -26,7 +26,7 @@ Features
 - Delete Member Record
 - Search Member
 
-- Contributor Update
+Contributor Update
 
 Contributor Name: 
 
